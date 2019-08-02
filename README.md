@@ -2,7 +2,6 @@
 
 입주자분들이 선거 관련 정보를 보다 편하게 접근할 수 있도록 페이지를 만들었습니다.
 
-[갈현현대1차 아파트 정보마당](https://openapt.seoul.go.kr/wooriapt/wooriaptFrameset.do?aptCode=A12281702): 서울시에서 운영하는 공동주택 통합정보마당으로 관리 규약, 회의록, 회계 정보 등을 볼 수 있습니다. 
 
 ## 입주자 대표 회의 보궐 선거 일정
 
@@ -22,3 +21,5 @@
 
 ### 현장투표방법
 
+## 
+[갈현현대1차 아파트 정보마당](https://openapt.seoul.go.kr/wooriapt/wooriaptFrameset.do?aptCode=A12281702): 서울시에서 운영하는 공동주택 통합정보마당으로 관리 규약, 회의록, 회계 정보 등을 볼 수 있습니다. 
